@@ -1,7 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : D:\Tutorial\AltiumDesigner\Projects\ArduinoProMini\Source\ArduinoProMini_Project\ArduinoProMini_PCB.PcbDoc
 Date     : 6/13/2024
-Time     : 10:09:07 PM
+Time     : 10:35:16 PM
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (InPolygon),(All)
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
 Rule Violations :0
@@ -63,4 +66,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
