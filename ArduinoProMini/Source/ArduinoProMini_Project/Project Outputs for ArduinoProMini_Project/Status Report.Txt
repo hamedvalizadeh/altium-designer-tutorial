@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:10:46 PM On 6/13/2024
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ArduinoProMini_PCB.PcbDoc]
+   Generated File[ArduinoProMini_PCB-RoundHoles.TXT]
+   Generated File[ArduinoProMini_PCB-SlotHoles.TXT]
+   Generated File[ArduinoProMini_PCB.LDP]
+   Generated File[ArduinoProMini_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:10:47 PM On 6/13/2024

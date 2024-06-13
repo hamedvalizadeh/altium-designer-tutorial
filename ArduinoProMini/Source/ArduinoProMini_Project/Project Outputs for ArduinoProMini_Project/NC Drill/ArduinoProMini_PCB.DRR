@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ArduinoProMini_PCB.PcbDoc   6/13/2024  11:10:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArduinoProMini_PCB-RoundHoles.TXT
+ASCII SlotHoles File : ArduinoProMini_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Slot              2         PTH        15.33mm (0.60inch)
+T2      0.6mm (24mil)                                             Round             6         PTH        22.23mm (0.88inch)
+T3      0.6mm (24mil)                                             Slot              2         PTH        10.30mm (0.41inch)
+T4      1mm (39mil)                                               Round             38        PTH        159.36mm (6.27inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              48
+
+Total Processing Time (hh:mm:ss) : 00:00:00
