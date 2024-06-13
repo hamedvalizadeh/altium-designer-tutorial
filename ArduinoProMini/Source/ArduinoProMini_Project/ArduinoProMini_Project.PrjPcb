@@ -138,6 +138,10 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-ArduinoProMini_Project.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ArduinoProMini_Project\Design Rule Check - ArduinoProMini_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
